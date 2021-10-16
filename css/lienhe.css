@@ -1,0 +1,73 @@
+
+#header .usename{
+	background: #f2f2f2;
+    border-radius: 25px;
+    padding: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(179,171,171,1)
+}
+#header .use-name>p{
+	margin: 6px 0px 0px 10px;
+}
+#header .use-name{
+	display: flex;
+}
+#header .use-name a{
+	background-color: #dd8f22;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+#header .use-name a img{
+	padding: 7px;
+}
+#lien-he td{
+	padding-right: 30px;
+}
+#lien-he .lien-he{
+	margin:25px 14% 55px 14%;
+
+}
+#lien-he h4,textarea,input{
+	font-family: OpenSans-Regular;
+	font-size: 14px;
+
+}
+#lien-he .dia-chi{
+	display: flex;
+}
+#lien-he textarea{
+	padding-left: 10px;
+
+}
+#lien-he input{
+	width: 420px;
+    height: 40px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+}
+#lien-he h3{
+	font-family: OpenSans-SemiBold;
+	font-size: 20px;
+	font-weight: 600;
+}
+#lien-he .gui-di{
+	margin-top: 25px;
+}
+#lien-he .gui-di>a{
+	text-decoration: none;
+	background-color: #dd8f22;
+	padding: 8px 25px;
+	font-family: OpenSans-SemiBold;
+	font-size: 16px;
+	color: #fff;
+	border-radius: 3px;
+	text-transform: uppercase;
+}
+#lien-he .tt-dia-chi>p{
+	font-family: OpenSans-Regular;
+	font-size: 16px;
+}
+#lien-he .dia-chi>img{
+	height: 251px;
+    padding-right: 10px;
+}

@@ -1,0 +1,65 @@
+#tin-tuc .tin-tuc{
+	margin:25px 14% 55px 14%;
+}
+#tin-tuc .row{
+	margin-bottom: 50px;
+}
+#tin-tuc .box{
+	border: 1px solid #ccc;
+	display: flex;
+	border-radius: 4px;
+}
+#tin-tuc .noidung{
+	margin-left: 20px;
+}
+.tin-tuc>h3{
+	font-family: OpenSans-Regular;
+	font-size: 14px;
+	margin: 22px 0px;
+	font-weight: 500;
+}
+.tin-tuc h2{
+	margin-bottom: 25px;
+	font-size: 24px;
+	font-family: Roboto-Regular;
+}
+.tin-tuc h3>img{
+	margin: 0px 13px;
+}
+#tin-tuc .noidung> h4{
+	margin:  25px 0px 10px 0px;
+	font-family: OpenSans-SemiBold;
+	font-size: 16px;
+	color: #212121;
+	line-height: 25px;
+}
+#tin-tuc .noidung>img{
+	margin-right: 10px;
+}
+#tin-tuc .noidung>p{
+	margin: 9px 0px 37px 0px;
+	font-family: OpenSans-Regular;
+	font-size: 14px;
+	color: #696969;
+}
+#tin-tuc .noidung .absolute a{
+	text-decoration: none;
+	color: #dd8f22;
+	border: 1px solid #dd8f22;
+	padding: 5px 18px;
+	border-radius: 14px;
+	font-family: OpenSans-Regular;
+	font-size: 14px;
+}
+.next-tintuc{
+	margin-bottom: 45px;
+}
+.next-tintuc button{
+	border: 1px solid #ccc;
+    margin-right: 10px;
+    padding: 7px 13px;
+}
+.next-tintuc button:hover{
+	background: #dd8f22;
+	border: 1px solid #dd8f22;
+}

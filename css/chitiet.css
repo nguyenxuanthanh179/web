@@ -1,0 +1,213 @@
+
+#chi-tiet-san-pham .ct-san-pham{
+	margin:25px 14% 55px 14%;
+}
+#chi-tiet-san-pham .chi-tiet-san-pham{
+	margin:25px 14% 55px 14%;
+	border-radius: 4px;
+	box-shadow: 0px 0px 10px 1px rgba(163,158,163,1);
+}
+#chi-tiet-san-pham .border{
+	border: 3px dotted #dee2e6!important;
+    width: 254px;
+    padding: 10px 16px;
+    border-radius: 16px;
+}
+#chi-tiet-san-pham .dflex{
+	margin: 15px 0px;
+    display: flex;
+}
+#chi-tiet-san-pham .dflex a>img{
+	    margin-left: 10px;
+}
+#chi-tiet-san-pham .dflex>p{
+	margin-right: 25px;
+}
+#chi-tiet-san-pham input[type='number']{
+	height: 29px;
+    width: 45px;
+}
+#chi-tiet-san-pham .dflex>a{
+	margin-left: 35px;
+    padding: 12px 32px;
+    background: #dd8f22;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 18px;
+}
+#chi-tiet-san-pham .ct-san-pham >h3{
+	font-family: OpenSans-Regular;
+	font-size: 14px;
+	margin: 22px 0px;
+	font-weight: 500;
+}
+#chi-tiet-san-pham .ct-san-pham h3>img{
+	margin: 0px 13px;
+}
+#chi-tiet .chi-tiet{
+	display: flex;
+	margin:25px 14% 55px 14%;
+}
+.tt-chitiet{
+	position: relative;
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 28px;
+}
+#chi-tiet .tt-chitiet::after {
+	content: "";
+    border-bottom: 2px solid #dd8f22;
+    width: 180px;
+    left: 22px;
+    bottom: 0;
+    position: absolute;
+}
+#chi-tiet .tt-chitiet>h2{
+	font-size: 18px;
+	margin-left: 22px;
+}
+#chi-tiet .tt-chitiet>h2:first-child{
+	color: #dd8f22;
+	margin-right: 30px;
+}
+#chi-tiet .layer-left{
+	padding-left: 0px;
+}
+#chi-tiet .thong-tin{
+	border-radius: 4px;
+	box-shadow: 0px 0px 10px 1px rgba(163,158,163,1);
+	margin-bottom: 25px;
+}
+#chi-tiet .noidung-chitiet{
+	padding: 0px 22px 50px 22px ;
+}
+#chi-tiet .noidung-chitiet p{
+	font-size: 14px;
+	font-family: OpenSans-Regular;
+	color: #333333;
+	line-height: 25px;
+}
+#chi-tiet .noidung-chitiet p{
+	margin-bottom: 25px;
+}
+#chi-tiet .noidung-chitiet img{
+	margin: 0px 0px 25px 0px;
+}
+/* layer-right */
+#chi-tiet .row{
+	margin-bottom: -20px;
+}
+#chi-tiet .box{
+	margin-left: 15px;
+    position: relative;
+    padding-bottom: 55px;
+}
+#chi-tiet .box-1{
+	position: absolute;
+	box-shadow: 0px 0px 5px 2px rgba(163,158,163,1);
+	position: absolute;
+	left: 40%;
+	top: 41%;
+	background: #fff;
+	width: 94px;
+	height: 86px;
+	border-radius: 50%;"
+}
+#chi-tiet .anh-tron{
+	margin: 24px 16px;
+}
+#chi-tiet .anh-tron1{
+	margin: 33px 13px;
+}
+#chi-tiet .padding-top{
+	padding-top: 42px;
+	margin-left: 10px;
+}
+#chi-tiet .padding-top h4{
+	font-family: OpenSans-SemiBold;
+	font-size: 18px;
+	font-weight: 600;
+}
+#chi-tiet .item{
+	box-shadow: 0px 0px 10px 1px rgba(163,158,163,1);
+    padding-bottom: 47px;
+}
+#chi-tiet .position{
+	position: relative;
+	font-family: OpenSans-Regular;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 20px;
+
+}
+#chi-tiet .absolute{
+	position: absolute;
+    right: 5%;
+    top: -9px;
+    border: 1px solid #dd8f22;
+    padding: 8px 25px;
+    border-radius: 20px;
+}
+#chi-tiet .absolute>a{
+	color: #dd8f22;
+	font-family: OpenSans-Regular;
+	font-size: 14px;
+}
+#chi-tiet .text-center >a{
+	font-family: OpenSans-SemiBold;
+	padding: 11px 53px;
+    color: #fff;
+    border: 1px solid #dd8f22;
+    background: #dd8f22;
+    border-radius: 30px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+#chi-tiet .position >img{
+	margin-right: 10px;
+}
+ul{
+	list-style-position: inside;
+}
+li{
+	font-size: 14px;
+	margin: 15px 0px;
+}
+#chi-tiet .dia-diem{
+	width: 104%;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-shadow: 0px 0px 10px 1px rgba(163,158,163,1);
+	margin-bottom: 25px;
+}
+#chi-tiet .dia-diem1{
+	border-bottom: 1px solid #ccc;
+	padding: 15px 0px 15px 16px;
+}
+#chi-tiet .dia-diem1 >img{
+	margin-right: 10px;
+}
+
+#chi-tiet .dia-diem2{
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+#chi-tiet .box-dd{
+	padding-left: 16px;
+}
+#chi-tiet .dia-diem1>span,
+#chi-tiet h6{
+	font-size: 18px;
+	font-weight: 500;
+	color: #212121;
+	
+}
+#chi-tiet .noi-bat{
+	border-bottom: 2px solid #dd8f22;
+    margin-bottom: 20px;
+    width: 104%;
+    font-size: 18px;
+}
+
+
